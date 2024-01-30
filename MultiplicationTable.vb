@@ -1,4 +1,10 @@
-﻿Option Explicit On
+﻿'Rahiel Rodriguez
+'RCET0265
+'Spring 2024
+'Multiplication Table
+'https://github.com/rahielrodriguez/MultiplicationTable.git
+
+Option Explicit On
 Option Strict On
 
 Module MultiplicationTable
